@@ -1,9 +1,6 @@
 import colombo from "../assets/images/cities/colombo.jpg";
 
-import anuradhapura from "../assets/images/featured/anuradhapura.png";
-import galle from "../assets/images/featured/galle.png";
-import kandy from "../assets/images/featured/kandy.png";
-import horton from "../assets/images/horton-planes.png";
+
 
 import women1 from "../assets/images/news/women1.jpeg";
 import con2 from "../assets/images/news/con3.png";
@@ -20,81 +17,17 @@ import KANDY from "../assets/images/cities/kandy.jpeg";
 import CMB from "../assets/images/cities/CMB.jpeg";
 
 
-import travelAgent from "../assets/images/plan-holiday/travel-agent.png";
-import flight from "../assets/images/plan-holiday/flight.png";
-import visa from "../assets/images/plan-holiday/visa.png";
-import accommodation from "../assets/images/plan-holiday/accommodation.png";
-import guide from "../assets/images/plan-holiday/guide.png";
-import camping from "../assets/images/plan-holiday/camping.png";
 
-import galleFace from "../assets/images/colombo-key-attractions/galle-face.png";
-import lotusTower from "../assets/images/colombo-key-attractions/lotus-tower.png";
-import redMosque from "../assets/images/colombo-key-attractions/red-mosque.png";
-import gangarama from "../assets/images/colombo-key-attractions/gangarama.png";
-import nationalMuseum from "../assets/images/colombo-key-attractions/national-museum.png";
-import pettah from "../assets/images/colombo-key-attractions/pettah.png";
-
-import kingsbury from "../assets/images/colombo-places-to-stay/kingsbury.png";
-import marino from "../assets/images/colombo-places-to-stay/marino.png";
-import havelock from "../assets/images/colombo-places-to-stay/havelock.png";
-
-import gangaramaya from "../assets/images/colombo-similar-attractions/gangaramaya.png";
-import independence from "../assets/images/colombo-similar-attractions/independence.png";
-import lotusTowerImage from "../assets/images/colombo-similar-attractions/lotus-tower.png";
-import mosque from "../assets/images/colombo-similar-attractions/mosque.png";
-import postCity from "../assets/images/colombo-similar-attractions/post-city.png";
 
 import wildLife from "../assets/images/hero/Excellence.png";
 import culture from "../assets/images/hero/culture1.jpeg";
 import ruins from "../assets/images/hero/ruins.jpg";
 import cuisines from "../assets/images/hero/cuisines1.jpeg";
 
-import des1 from "../assets/images/top-destination/des1.png";
-import des2 from "../assets/images/top-destination/des2.png";
-import des3 from "../assets/images/top-destination/des3.png";
-import des4 from "../assets/images/top-destination/des4.png";
-import des5 from "../assets/images/top-destination/des5.png";
-import des6 from "../assets/images/top-destination/des6.png";
-import des7 from "../assets/images/top-destination/des7.png";
-import des8 from "../assets/images/top-destination/des8.png";
-import des9 from "../assets/images/top-destination/des9.png";
 
-import Dis1 from "../assets/images/discover-lanka/Dis1.png";
-import Dis2 from "../assets/images/discover-lanka/Dis2.png";
-import Dis3 from "../assets/images/discover-lanka/Dis3.png";
-import Dis4 from "../assets/images/discover-lanka/Dis4.png";
-import Dis5 from "../assets/images/discover-lanka/Dis5.png";
-import Dis6 from "../assets/images/discover-lanka/Dis6.png";
-import Dis7 from "../assets/images/discover-lanka/Dis7.png";
-import Dis8 from "../assets/images/discover-lanka/Dis8.png";
-import Dis9 from "../assets/images/discover-lanka/Dis9.png";
-import Dis10 from "../assets/images/discover-lanka/Dis10.png";
-import Dis11 from "../assets/images/discover-lanka/Dis11.png";
-import Dis12 from "../assets/images/discover-lanka/Dis12.png";
 
-import Travel1 from "../assets/images/travel-prep-essentials/Travel1.png";
-import Travel2 from "../assets/images/travel-prep-essentials/Travel2.png";
-import Travel3 from "../assets/images/travel-prep-essentials/Travel3.png";
-import Travel4 from "../assets/images/travel-prep-essentials/Travel4.png";
-import Travel5 from "../assets/images/travel-prep-essentials/Travel5.png";
-import Travel6 from "../assets/images/travel-prep-essentials/Travel6.png";
-import Travel7 from "../assets/images/travel-prep-essentials/Travel7.png";
-import Travel8 from "../assets/images/travel-prep-essentials/Travel8.png";
-import Travel9 from "../assets/images/travel-prep-essentials/Travel9.png";
-import Travel10 from "../assets/images/travel-prep-essentials/Travel10.png";
-import Travel11 from "../assets/images/travel-prep-essentials/Travel11.png";
-import Travel12 from "../assets/images/travel-prep-essentials/Travel12.png";
 
-import Book1 from "../assets/images/plan-book-trip/Book1.png";
-import Book2 from "../assets/images/plan-book-trip/Book2.png";
-import Book3 from "../assets/images/plan-book-trip/Book3.png";
-import Book4 from "../assets/images/plan-book-trip/Book4.png";
-import Book5 from "../assets/images/plan-book-trip/Book5.png";
-import Book6 from "../assets/images/plan-book-trip/Book6.png";
-import Book7 from "../assets/images/plan-book-trip/Book7.png";
-import Book8 from "../assets/images/plan-book-trip/Book8.png";
-import Book9 from "../assets/images/plan-book-trip/Book9.png";
-import Book10 from "../assets/images/plan-book-trip/Book10.png";
+
 
 //wild life experices images
 import wildLife1 from "../assets/images/wild-life/experience1.png";
@@ -105,19 +38,7 @@ import wildLife5 from "../assets/images/wild-life/experience5.png";
 import wildLife6 from "../assets/images/wild-life/experience6.png";
 import wildLife7 from "../assets/images/wild-life/experience7.png";
 
-// import culture from "../assets/images/explore-more-srilanka/culture2.png";
-// import cuisines from "../assets/images/explore-more-srilanka/Cuisines.png";
-import festuvals from "../assets/images/explore-more-srilanka/Festivals.png";
-// import ruins from "../assets/images/explore-more-srilanka/Ruins.png";
-import tea from "../assets/images/explore-more-srilanka/Tea.png";
 
-import CultureTour from "../assets/images/travel-packages/CultureTour.png";
-import BeachParadise from "../assets/images/travel-packages/BeachParadise.png";
-import NormalTour from "../assets/images/travel-packages/7DaysNormalTour.png";
-import IslandBliss from "../assets/images/travel-packages/IslandBliss.png";
-import Culture from "../assets/images/travel-packages/Culture.png";
-import Sigiriya from "../assets/images/travel-packages/Sigiriya.png";
-import Kandy from "../assets/images/travel-packages/Kandy.png";
 import { CustomersIcon, LocationIcon } from "./icons";
 
 export const navigationItems = [
@@ -191,161 +112,10 @@ export const cities = [
  
 ];
 
-export const featuredDestinations = [
-  {
-    title: "Colombo",
-    locations: [{ title: "Lotus Tower" }, { title: "Galle Face" }],
-    image: colombo,
-  },
-  {
-    title: "Kandy",
-    locations: [{ title: "Temple of the Tooth" }, { title: "Mountains" }],
-    image: kandy,
-  },
-  {
-    title: "Anuradhapura",
-    locations: [{ title: "Ancient ruins" }, { title: "Temples" }],
-    image: anuradhapura,
-  },
-  {
-    title: "Galle",
-    locations: [{ title: "Unawatuna" }, { title: "Galle Fort" }],
-    image: galle,
-  },
-];
 
-export const mapData = [
-  {
-    id: 1,
-    title: "Wildlife Safari",
-    districts: [
-      {
-        id: 21,
-        location: {
-          id: 1,
-          name: "Yala National Park",
-          description:
-            "Home to diverse wildlife including leopards, elephants, and birds.",
-          image: horton,
-        },
-      },
-      {
-        id: 2,
-        location: {
-          id: 2,
-          name: "Wilpattu National Park",
-          description: "Famous for its natural lakes and rich wildlife.",
-          image: horton,
-        },
-      },
-      {
-        id: 3,
-        location: {
-          id: 3,
-          name: "Uda Walawe National Park",
-          description: "Known for its large population of elephants.",
-          image: horton,
-        },
-      },
-    ],
-  },
-  {
-    id: 2,
-    title: "Scenic Landscape",
-    districts: [
-      {
-        id: 4,
-        location: {
-          id: 4,
-          name: "Ella",
-          description:
-            "A picturesque town with stunning views of tea plantations and valleys.",
-          image: horton,
-        },
-      },
-    ],
-  },
-  {
-    id: 3,
-    title: "Beach Bliss",
-    districts: [
-      {
-        id: 5,
-        location: {
-          id: 5,
-          name: "Mirissa",
-          description:
-            "A popular beach destination known for its whale watching and pristine beaches.",
-          image: horton,
-        },
-      },
-    ],
-  },
-  {
-    id: 4,
-    title: "Tea Plantation",
-    districts: [
-      {
-        id: 6,
-        location: {
-          id: 6,
-          name: "Nuwara Eliya",
-          description: "Famous for its tea estates and cool climate.",
-          image: horton,
-        },
-      },
-    ],
-  },
-  {
-    id: 5,
-    title: "Water Sports",
-    districts: [
-      {
-        id: 7,
-        location: {
-          id: 7,
-          name: "Bentota",
-          description:
-            "A hub for water sports such as windsurfing, jet-skiing, and banana boat rides.",
-          image: horton,
-        },
-      },
-    ],
-  },
-];
 
-export const planHoliday = [
-  {
-    id: 1,
-    title: "Find a Travel Agent",
-    image: travelAgent,
-  },
-  {
-    id: 2,
-    title: "Apply Visa Online",
-    image: visa,
-  },
-  {
-    id: 3,
-    title: "Book a Flight",
-    image: flight,
-  },
-  {
-    id: 4,
-    title: "Book Your Accommodation",
-    image: accommodation,
-  },
-  {
-    id: 5,
-    title: "Find a Tour Guide",
-    image: guide,
-  },
-  {
-    id: 6,
-    title: "Camping Sites",
-    image: camping,
-  },
-];
+
+
 
 export const footerLinks = [
   { id: 1, title: "Home", link: "/" },
@@ -408,319 +178,13 @@ export const newsCategories = [
   },
 ];
 
-export const colomboKeyAttractions = [
-  {
-    id: 1,
-    title: "Galle Face Green",
-    image: galleFace,
-    description: "A popular oceanfront promenade in the heart of the city.",
-  },
-  {
-    id: 2,
-    title: "Colombo Lotus Tower",
-    image: lotusTower,
-    description: "Rising out of the shores of Beira Lake in Colombo",
-  },
-  {
-    id: 3,
-    title: "Red Mosque",
-    image: redMosque,
-    description: "Historic fort with colonial architecture and coastal views.",
-  },
-  {
-    id: 4,
-    title: "Gangarmaya Temple",
-    image: gangarama,
-    description: "One of the most important Buddhist temples in Colombo.",
-  },
-  {
-    id: 5,
-    title: "Colombo National Museum",
-    image: nationalMuseum,
-    description: " Established in 1877, the largest museum in Sri Lanka.",
-  },
-  {
-    id: 6,
-    title: "Pettah Market",
-    image: pettah,
-    description: "A bustling bazaar where you can find everything.",
-  },
-];
 
-export const placesToStayInColombo = [
-  {
-    id: 1,
-    name: "The Kingsbury Hotel",
-    email: "accountantho@sigiriyajungles.com",
-    contact: "0114508508",
-    image: kingsbury,
-  },
-  {
-    id: 2,
-    name: "Marino Beach Hotel",
-    email: "accountantho@sigiriyajungles.com",
-    contact: "0114508508",
-    image: marino,
-  },
-  {
-    id: 1,
-    name: "Havelock Place Bungalow",
-    email: "accountantho@sigiriyajungles.com",
-    contact: "0114508508",
-    image: havelock,
-  },
-];
 
 import { DashboardIcon, SupplierIcon, UsersIcon } from "../utils/icons";
 
-export const similarAttractionsToColombo = [
-  { id: 1, name: "Independence Memorial Hall", image: independence },
-  { id: 2, name: "Gangaramaya Temple", image: gangaramaya },
-  { id: 3, name: "Lotus Tower Colombo", image: lotusTowerImage },
-  { id: 4, name: "Jami UI-Alfar Mosque", image: mosque },
-  { id: 5, name: "Port City", image: postCity },
-];
 
-export const destinations = [
-  {
-    title: "Sigiriya Rock Fortress",
-    description: "Iconic ancient rock with frescoes and gardens.",
-    image: des1,
-  },
-  {
-    title: "Temple of the Tooth, Kandy",
-    description: "Sacred Buddhist site housing a tooth relic of Buddha.",
-    image: des2,
-  },
-  {
-    title: "Galle Fort",
-    description: "Historic fort with colonial architecture and coastal views.",
-    image: des3,
-  },
-  {
-    title: "Yala National Park",
-    description: "Famous for wildlife safaris, including leopards.",
-    image: des4,
-  },
-  {
-    title: "Dambulla Cave Temple",
-    description: "A complex of ancient Buddhist cave temples.",
-    image: des5,
-  },
-  {
-    title: "Ella",
-    description: "Scenic hill town with hiking trails and waterfalls.",
-    image: des6,
-  },
-  {
-    title: "Adams Peak (Sri Pada)",
-    description: "Sacred mountain with pilgrimage trails.",
-    image: des7,
-  },
-  {
-    title: "Polonnaruwa",
-    description: "Ancient city with ruins of palaces and temples.",
-    image: des8,
-  },
-  {
-    title: "Minneriya National Park",
-    description: "Known for the annual elephant gathering.",
-    image: des9,
-  },
-];
 
-export const planTrip = [
-  {
-    title: "Culture & Traditions",
-    description: "Insights into Sri Lankan cultural practices and traditions.",
-    image: Dis1,
-  },
-  {
-    title: "Historical Sites",
-    description:
-      "Ancient temples, forts, and monuments showcasing Sri Lanka’s history.",
-    image: Dis2,
-  },
-  {
-    title: "Natural Wonders",
-    description:
-      "Stunning landscapes including rainforests, beaches, and mountains",
-    image: Dis3,
-  },
-  {
-    title: "Wildlife & Nature",
-    description:
-      "National parks and wildlife for observing Sri Lanka’s biodiversity.",
-    image: Dis4,
-  },
-  {
-    title: "Weather",
-    description:
-      "Overview of Sri Lanka's climate to help plan the best time to visit",
-    image: Dis5,
-  },
-  {
-    title: "Public Holidays",
-    description:
-      "Key holidays and festivals for local celebrations and trip planning",
-    image: Dis6,
-  },
-  {
-    title: "Local Festivals",
-    description: "Experience vibrant local festivals and seasonal celebrations",
-    image: Dis7,
-  },
-  {
-    title: "Beaches",
-    description:
-      "Explore Sri Lanka’s beautiful and diverse beaches for relaxation and water activities.",
-    image: Dis8,
-  },
-  {
-    title: "City Highlights",
-    description:
-      "Discover key attractions and experiences in Sri Lanka’s major cities",
-    image: Dis9,
-  },
-  {
-    title: "Activities & Adventures",
-    description:
-      "Hiking, surfing, safaris, and cultural tours for adventure seekers",
-    image: Dis10,
-  },
-  {
-    title: "Cuisine",
-    description: "Discover Sri Lanka’s street food and traditional dishes..",
-    image: Dis11,
-  },
-  {
-    title: "Shopping & Souvenirs",
-    description: "Where to find local crafts and unique souvenirs",
-    image: Dis12,
-  },
-];
 
-export const travelPrepEssentials = [
-  {
-    title: "Apply for a Visa",
-    description: "Guidelines and steps for applying for a visa to Sri Lanka",
-    image: Travel1,
-  },
-  {
-    title: "Visa Services",
-    description: "Services available for visa application and support.",
-    image: Travel2,
-  },
-  {
-    title: "General Tips and Tricks",
-    description: "Practical advice for a smooth travel experience.",
-    image: Travel3,
-  },
-  {
-    title: "Transport",
-    description: "Local transportation options and tips for getting around.",
-    image: Travel4,
-  },
-  {
-    title: "Travel Magazines and Directories",
-    description:
-      "Recommended magazines and directories for travel inspiration and information",
-    image: Travel5,
-  },
-  {
-    title: "Travel Apps",
-    description: "Useful apps for managing your trip and navigating Sri Lanka.",
-    image: Travel6,
-  },
-  {
-    title: "Business Travel Tips",
-    description: "Useful online tools for booking and managing your trip.",
-    image: Travel7,
-  },
-  {
-    title: "Currency & Payments",
-    description: "Local currency, exchange rates, and payment options.",
-    image: Travel8,
-  },
-  {
-    title: "Visitor’s Say",
-    description: "Traveler reviews and tips for your journey.",
-    image: Travel9,
-  },
-  {
-    title: "Travel Insurance",
-    description: "Importance of travel insurance and choosing the right plan",
-    image: Travel10,
-  },
-  {
-    title: "Health & Safety",
-    description:
-      "Guidelines on vaccinations, health precautions, and safety tips for travelers",
-    image: Travel11,
-  },
-  {
-    title: "Local Etiquette",
-    description:
-      "Important cultural norms and etiquette to be aware of while traveling",
-    image: Travel12,
-  },
-];
-
-export const planAndBook = [
-  {
-    title: "Reserve Your Flights",
-    description: "Find and book flights to Sri Lanka with ease.",
-    image: Book1,
-  },
-  {
-    title: "Secure Your Stay",
-    description: "Explore and reserve lodging options from luxury to budget.",
-    image: Book2,
-  },
-  {
-    title: "Submit Your Travel Inquiry",
-    description: "Send your travel questions or requests to our support team.",
-    image: Book3,
-  },
-  {
-    title: "Digital Booking Tools",
-    description:
-      "Access a range of online tools for managing and booking your trip.",
-    image: Book4,
-  },
-  {
-    title: "Buy E-Tickets for Attractions",
-    description:
-      "Purchase electronic tickets for popular attractions in advance.",
-    image: Book5,
-  },
-  {
-    title: "Travel Agents",
-    description: "Contact details for travel agents to assist with planning.",
-    image: Book6,
-  },
-  {
-    title: "Hotels & Other Accommodation",
-    description: "Browse and book hotels, guesthouses, and more.",
-    image: Book7,
-  },
-  {
-    title: "Newly Listed Lodging",
-    description: "Discover recently listed  Lodging.",
-    image: Book8,
-  },
-  {
-    title: "Tour Guides",
-    description: "Connect with knowledgeable guides for enhanced tours.",
-    image: Book9,
-  },
-  {
-    title: "Government-Approved Resorts",
-    description:
-      "Explore government-approved resorts and guesthouses for your stay",
-    image: Book10,
-  },
-];
 
 export const highlights = [
   {
@@ -862,13 +326,7 @@ export const wildLifeExperiences = [
   },
 ];
 
-export const moreAboutStrilanka = [
-  { id: 1, name: "Culture & Heritage", image: culture },
-  { id: 2, name: "Tea plantation", image: tea },
-  { id: 3, name: "Ancient Ruins", image: ruins },
-  { id: 4, name: "Sri lankan cuisines", image: cuisines },
-  { id: 5, name: "Sri lankan Festivals", image: festuvals },
-];
+
 
 export const holidays = [
   {
@@ -1107,77 +565,7 @@ export const subPathLinks = {
   "Supplier Item Report": "/item-report",
 };
 
-export const travelPackages = [
-  {
-    id: 1,
-    title: "Culture",
-    duration: "1 week",
-    review: "15",
-    image: Culture,
-  },
-  {
-    id: 2,
-    title: "Culture Tour",
-    duration: "1 week",
-    review: "16",
-    image: CultureTour,
-  },
-  {
-    id: 3,
-    title: "7 Days Normal Tour",
-    duration: "1 week",
-    review: "17 ",
-    image: NormalTour,
-    descriptions: [
-      {
-        descriptionTitle: "First two night Sigiriya",
-        subDescriptions: [
-          "Starting from colombo 8.30 a.m. to Sigiriya. Evening visit Sigiriya (Sigiriya 5 century A.D. king place and 8th wonder world).",
-          "2nd day morning 8.30 a.m. start to Polonnaruwa. That is 10 to 12 century capital in Sri Lanka. We see all Buddhist monuments. Afternoon visit safari. There is two national parks. One is minneriya national park and kaudulla national park. We see wild elephant.",
-        ],
-      },
-      {
-        descriptionTitle: "Two night Kandy",
-        subDescriptions: [
-          "Morning 8.30 start from hotel. On the way to Kandy will stop dabulla cave temple. (That is 2 century A.D. king walagamba build) and there is city come matale. That area we can see piece garden. If you are interested will visit. Afternoon come to Kandy. Evening we visit kandy budda tooth temple. Ceremonial 5.30 p.m. Kandy last capital in Sri Lanka",
-          "Next day morning 8.00 we visit Kandy botanical garden. 450 acres king day place is there and British time. They use plant experiments. Tea rubber experiment from this garden. Afternoon can do shopping. (Kandy craft, souvenir shop).",
-        ],
-      },
 
-      {
-        descriptionTitle: "One night Nuwara Eliya",
-        subDescriptions: [
-          "Morning 8.00 start from hotel Nuwara Eliya. On the way see tea plantation and we visit tea factory. Nuwara Eliya mountain area 2500 meters from sea level. That city look like England. Because all British people live there. All the buildings colonial type. Temperature maximum 15 degrees. Evening can walk around the city.",
-        ],
-      },
-      {
-        descriptionTitle: "One night Ella",
-        subDescriptions: [
-          "From Nuwara Eliya to Ella we make train trip. Morning 11.30 starting train to Ella. We drop you train station and pickup from Ella again. Ella very beautiful place. There are can see water falls.",
-        ],
-      },
-
-      {
-        descriptionTitle: "One night Tissamaharama",
-        subDescriptions: [
-          " Start morning 8.00 come to Tissamaharama. One of the big national park in Tissamaharama. You can do safari afternoon. This place famous for leopards.",
-        ],
-      },
-
-      {
-        descriptionTitle: "Next day drop at colombo Beach.",
-        subDescriptions: [" "],
-      },
-    ],
-  },
-  {
-    id: 4,
-    title: "Island Bliss",
-    duration: "1 week",
-    review: "18",
-    image: IslandBliss,
-  },
-];
 
 export const districts = [
   { id: "1", name: "Colombo" },
@@ -1207,42 +595,3 @@ export const districts = [
   { id: "25", name: "Kegalle" },
 ];
 
-export const travelPlaces = [
-  {
-    id: 1,
-    title: "Sigiriya",
-    image: Sigiriya,
-    
-  },
-  {
-    id: 2,
-    title: "Kandy",
-    image: Kandy,
-   
-  },
-  {
-    id: 3,
-    title: "Sigiriya",
-    image: Sigiriya,
-    
-  },
-  {
-    id: 4,
-    title: "Kandy",
-    image: Kandy,
-   
-  },
-  {
-    id: 5,
-    title: "Sigiriya",
-    image: Sigiriya,
-    
-  },
-  {
-    id: 6,
-    title: "Kandy",
-    image: Kandy,
-   
-  },
- 
-];

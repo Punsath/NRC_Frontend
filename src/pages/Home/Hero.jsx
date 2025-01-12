@@ -1,6 +1,6 @@
 import { useEffect } from "react";
 import { motion } from "framer-motion";
-import backgroundImage from "./../../assets/images/H.png";
+
 import { Link } from "react-router-dom";
 import { ForwardArrow } from "../../utils/icons";
 

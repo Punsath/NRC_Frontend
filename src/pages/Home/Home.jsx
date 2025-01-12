@@ -4,10 +4,10 @@ import { HeroOld } from "./HeroOld";
 import { Header } from "../../components/layouts/Header";
 import { Welcome } from "./Welcome";
 
-import { FeaturedDestinations } from "./FeaturedDestinations";
+
 import { UpcomingEvents } from "./UpcomingEvents";
 import { MapView } from "./MapView";
-import { PlanHoliday } from "./PlanHoliday";
+
 import { Footer } from "../../components/layouts/Footer";
 import { TravelPackages } from "./TravelPackages";
 
