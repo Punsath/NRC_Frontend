@@ -61,27 +61,17 @@ const Login = () => {
             />
           </div>
 
-          <div className="flex items-center mb-4">
-            <input
-              type="checkbox"
-              name="tick"
-              id="tick"
-              className="mr-2"
-            />
-            <label htmlFor="tick" className="text-sm text-gray-600">You agree with our terms & conditions</label>
-          </div>
+ 
 
           <button
             type="submit"
-            className="w-full py-3 mt-4 bg-green-500 text-white font-semibold rounded-md shadow-lg hover:bg-green-600 focus:outline-none focus:ring-2 focus:ring-green-400"
+            className="w-full py-3 mt-4 bg-[#004066] text-white font-semibold rounded-md shadow-lg hover:bg-[#0b1318d3] focus:outline-none focus:ring-2 focus:ring-green-400"
           >
             Log in
           </button>
         </form>
 
-        <div className="text-center mt-4 text-sm">
-          <p className="text-gray-600">Don't have an account? <a href="#" className="text-blue-500 hover:underline">Sign up</a></p>
-        </div>
+  
       </div>
     </div>
   );

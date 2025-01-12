@@ -37,12 +37,7 @@ const Dashboard = () => {
                 <span className="text-lg">BlueCap</span>
               </Link>
             </li>
-            <li onClick={handleLogout}>
-              <div className="flex items-center space-x-4 py-3 px-4 rounded-md hover:bg-red-600 transition cursor-pointer">
-                <i className="fs-4 bi-power"></i>
-                <span className="text-lg">Logout</span>
-              </div>
-            </li>
+           
           </ul>
         </div>
       </div>

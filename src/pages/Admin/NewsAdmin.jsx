@@ -39,7 +39,7 @@ const NewsAdmin = () => {
         <h3 className="text-2xl font-semibold text-gray-800">News Details</h3>
         <Link
           to="/dashboard/add_employee" // Adjusted to add news
-          className="bg-blue-600 text-white px-4 py-2 rounded-md hover:bg-blue-700 transition"
+          className="bg-[#004066] text-white px-4 py-2 rounded-md hover:bg-[#283f4d] transition"
         >
           + Add News
         </Link>
@@ -49,7 +49,7 @@ const NewsAdmin = () => {
       <div className="overflow-x-auto bg-white shadow-md rounded-lg">
         <table className="min-w-full border-collapse">
           <thead>
-            <tr className="bg-blue-600 text-white text-sm sm:text-base">
+            <tr className="bg-[#004066] text-white text-sm sm:text-base">
               <th className="py-3 px-2 sm:px-4 text-left">Title</th>
               <th className="py-3 px-2 sm:px-4 text-left">Image</th>
               <th className="py-3 px-2 sm:px-4 text-left">Date</th>
