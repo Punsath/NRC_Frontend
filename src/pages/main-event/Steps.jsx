@@ -102,7 +102,7 @@ export const Steps = () => {
                   <p className="text-lg font-semibold text-gray-700">{step.title}</p>
                 </div>
                 <svg
-                  className={`w-6 h-6 text-gray-500 transform transition-transform ${selectedStep === index ? "rotate-180" : ""}`}
+                  className={`w-6 h-6 text-gray-500 transform hidden md:flex transition-transform ${selectedStep === index ? "rotate-180" : ""}`}
                   xmlns="http://www.w3.org/2000/svg"
                   fill="none"
                   viewBox="0 0 24 24"
@@ -111,10 +111,10 @@ export const Steps = () => {
                   <path strokeLinecap="round" strokeLinejoin="round" strokeWidth="2" d="M19 9l-7 7-7-7" />
                 </svg>
               </div>
-              <div className={`transition-all duration-300 ease-in-out ${selectedStep === index ? "max-h-96 p-4" : "max-h-0"}`}>
+              <div className={`transition-all  duration-300 ease-in-out ${selectedStep === index ? "max-h-96 p-4" : "max-h-0"}`}>
                 <div className="flex items-center">
-                  <img src={step.image} alt={step.title} className="w-48 h-48 object-cover rounded-lg mr-4" />
-                  <p className="text-gray-600">{step.description}</p>
+                  <img src={step.image} alt={step.title} className="w-48 hidden md:flex h-48 object-cover rounded-lg mr-4" />
+                  <p className="text-gray-600 hidden md:flex">{step.description}</p>
                 </div>
               </div>
             </motion.div>
